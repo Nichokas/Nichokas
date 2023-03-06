@@ -1,11 +1,4 @@
-<h4>
-  <img src="https://emojis.slackmojis.com/emojis/images/1588866973/8934/hellokittydance.gif?1588866973" alt="Hi" width="42" />
-  {折腾 ⇌ 迷茫 ⇌ 思考]ing，在路上...
-</h4>
-
-<!-- > 𝘓𝘪𝘧𝘦’𝘴 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘺𝘰𝘶 𝘥𝘦𝘱𝘦𝘯𝘥𝘴 𝘰𝘯 𝘺𝘰𝘶𝘳 𝘢𝘵𝘵𝘪𝘵𝘶𝘥𝘦 𝘵𝘰 𝘪𝘵. -->
-
-<p style="font-size: 12px">I'm Xin Chen, a front-end developer from China. I love exploring and learning new things...</p>
+<p style="font-size: 12px">Soy un programador apasionado por el desarrollo web y la inteligencia artificial</p>
 
 <!-- ![profile views](https://komarev.com/ghpvc/?username=lencx&style=plastic) -->
 ![visitor](https://visitor-badge.glitch.me/badge?page_id=lencx.lencx)
