@@ -1,5 +1,7 @@
 <p style="font-size: 12px">Soy un programador apasionado por el desarrollo web y la inteligencia artificial</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Nichokas/github-readme-stats)
+
 **Lenguajes y Herramientas**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E34C26?style=flat&logo=html5&logoColor=ffffff)
