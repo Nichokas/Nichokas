@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/Nichokas/github-readme-stats)
+[![Top Langs](https://stats-nichokas.vercel.app/api/top-langs/?username=nichokas&layout=donut)](https://github.com/Nichokas/github-readme-stats)
 
 **Lenguajes y Herramientas**
 
