@@ -1,6 +1,6 @@
 <h3>Langs/Frameworks</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bash,cpp,git,py,vite,vue)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,arduino,bash,git,py,vite,react,rust)](https://skillicons.dev)
 
 <h3>other stuff</h3>
 
