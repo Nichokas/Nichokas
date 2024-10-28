@@ -1,9 +1,7 @@
 <h3>Langs/Frameworks</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,arduino,bash,git,py,vite,react,rust,next)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,bash,git,py,rust,cpp)](https://skillicons.dev)
 
 <h3>other stuff</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,discord,bots,github,linux,replit)](https://skillicons.dev)
-
-![My Discord](https://discord-readme-badge-beta.vercel.app/api?id=976878661242331156)
