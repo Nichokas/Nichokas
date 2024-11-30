@@ -7,4 +7,4 @@
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,discord,bots,github,linux,replit)](https://skillicons.dev)
 
 
-https://github-readme-stats.vercel.app/api/top-langs?username=nichokas&show_icons=true&locale=en&layout=compact
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nichokas&show_icons=true&locale=en&layout=compact" alt="nichokas" /></p>
