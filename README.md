@@ -5,3 +5,6 @@
 <h3>other stuff</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=cloudflare,discord,bots,github,linux,replit)](https://skillicons.dev)
+
+
+https://github-readme-stats.vercel.app/api/top-langs?username=nichokas&show_icons=true&locale=en&layout=compact
